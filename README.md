@@ -29,22 +29,21 @@
 
 ## 💻 Projects
 
-[![Tower Defense Game](https://img.shields.io/badge/Clash--of--Clans--Sim-FF4136?style=for-the-badge&logo=game-controller&logoColor=white)](https://github.com/YousefElmenshawy/clash-of-clans-simulation)  
-A fully interactive strategy game inspired by Clash of Clans- Tower defense, built using C++ and the Qt framework. This project captures the core mechanics of troop deployment, targeting, and combat logic with visual animations and a dynamic GUI.
+[![Clash of Clans Sim](https://img.shields.io/badge/Clash--of--Clans--Sim-FF4136?style=plastic&logo=gamepad&logoColor=white&labelColor=FF4136)](https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2.git)  
+A fully interactive strategy game inspired by Clash of Clans- Tower defense, built using C++ and the Qt framework.
 
-
-[![Hospital Management](https://img.shields.io/badge/Hospital--Management--System-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousefElmenshawy/hospital-management-system)  
+[![Hospital Management](https://img.shields.io/badge/Hospital--Management--System-28a745?style=plastic&logo=github&logoColor=white&labelColor=28a745)](https://github.com/moazelshafey/HMS_CSLab.git)  
 A C++ system with a Qt GUI to manage patient records, appointments, and staff details, supporting doctor, nurse, and patient registration.
 
-[![Expression Converter](https://img.shields.io/badge/Postfix--Infix--Prefix--Tool-6f42c1?style=for-the-badge&logo=code&logoColor=white)](https://github.com/YousefElmenshawy/postfix-infix-prefix-conversions)  
-Expression Converter – Converts between Postfix, Infix, and Prefix using an Expression Tree with a Qt-based C++ GUI.
+[![Expression Converter](https://img.shields.io/badge/Postfix--Infix--Prefix--Tool-6f42c1?style=plastic&logo=calculator&logoColor=white&labelColor=6f42c1)](https://github.com/YousefElmenshawy/ADS_Postfix---Infix---Prefix-Conversions-.git)  
+Converts between Postfix, Infix, and Prefix using an Expression Tree with a Qt-based C++ GUI.
 
-
-[![Chicken Invaders](https://img.shields.io/badge/Chicken--Invaders--Game-FB8C00?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/YousefElmenshawy/chicken-invaders-mini-game)  
+[![Chicken Invaders](https://img.shields.io/badge/Chicken--Invaders--Game-FB8C00?style=plastic&logo=godot-engine&logoColor=white&labelColor=FB8C00)](https://github.com/YousefElmenshawy/chicken-Invaders-Mini-Game.git)  
 🚀 2D Space Shooter – A mini arcade-style shooter inspired by Chicken Invaders, built in C++ with GUI and graphics powered by Qt.
 
-[![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/YousefElmenshawy/quine-mccluskey-algorithm-simulator)  
+[![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=007ACC)](https://github.com/CSCE2301/dd1-s25-project1-outliers.git)  
 C++ implementation of the Quine-McCluskey logic minimization algorithm with prime implicant generation and Boolean function validation.
+
 
 
 ---
