@@ -41,7 +41,7 @@ Converts between Postfix, Infix, and Prefix using an Expression Tree with a Qt-b
 [![Chicken Invaders](https://img.shields.io/badge/Chicken--Invaders--Game-FB8C00?style=plastic&logo=godot-engine&logoColor=white&labelColor=FB8C00)](https://github.com/YousefElmenshawy/chicken-Invaders-Mini-Game.git)  
 🚀 2D Space Shooter – A mini arcade-style shooter inspired by Chicken Invaders, built in C++ with GUI and graphics powered by Qt.
 
-[![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=007ACC)](https://github.com/CSCE2301/dd1-s25-project1-outliers.git)  
+[![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=007ACC)](https://github.com/YousefElmenshawy/QuineMcCluskey_Simulator.git)  
 C++ implementation of the Quine-McCluskey logic minimization algorithm with prime implicant generation and Boolean function validation.
 
 
