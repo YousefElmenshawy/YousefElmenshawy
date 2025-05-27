@@ -44,7 +44,8 @@ Converts between Postfix, Infix, and Prefix using an Expression Tree with a Qt-b
 [![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=007ACC)](https://github.com/YousefElmenshawy/QuineMcCluskey_Simulator.git)  
 C++ implementation of the Quine-McCluskey logic minimization algorithm with prime implicant generation and Boolean function validation.
 
-
+[![Signed SPM](https://img.shields.io/badge/Sequential--Multiplier--FPGA-800000?style=plastic&logo=xilinx&logoColor=white&labelColor=800000)](https://github.com/hassanashr/SignedSPM.git)  
+An 8x8 Signed Sequential-Parallel Multiplier (SPM) implemented in Verilog, simulated in Logisim, and deployed on a Basys 3 FPGA using Vivado.
 
 ---
 
