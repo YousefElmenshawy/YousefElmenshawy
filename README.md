@@ -14,18 +14,33 @@
 
 ## 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50" height="50" />
-  <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="50" height="50" />
-  <img src="https://www.kindpng.com/picc/m/586-5861315_clion-logo-png-transparent-clion-jetbrains-png-download.png" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" height="50" />
-  <img src="https://img.icons8.com/ios/50/000000/qt.png" width="50" height="50" />
-  <img src="https://img.icons8.com/color/50/000000/ubuntu.png" width="50" height="50" />
-</p>
+<div align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/Verilog-000000?logo=verilog&logoColor=white&style=flat" alt="Verilog">
+
+  <br />  
+  <br />  
+
+  <!-- Tools and OS -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=flat" alt="Qt">
+
+  <br  />  
+  <br  /> 
+
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
+
+</div>
 
 ---
+
 
 ## 💻 Projects
 
