@@ -42,27 +42,30 @@
 ---
 
 
-## 💻 Projects
+## 💼 Projects
 
-[![Clash of Clans Sim](https://img.shields.io/badge/Clash--of--Clans--Sim-FF4136?style=plastic&logo=gamepad&logoColor=white&labelColor=FF4136)](https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2.git)  
-A fully interactive strategy game inspired by Clash of Clans- Tower defense, built using C++ and the Qt framework.
+<div>
 
-[![Hospital Management](https://img.shields.io/badge/Hospital--Management--System-28a745?style=plastic&logo=github&logoColor=white&labelColor=28a745)](https://github.com/moazelshafey/HMS_CSLab.git)  
-A C++ system with a Qt GUI to manage patient records, appointments, and staff details, supporting doctor, nurse, and patient registration.
+[![Clash of Clans](https://img.shields.io/badge/Clash--of--Clans--Sim-FF4136?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2.git)  
+A strategic Tower Defense game built in C++ using Qt.
 
-[![Expression Converter](https://img.shields.io/badge/Postfix--Infix--Prefix--Tool-6f42c1?style=plastic&logo=calculator&logoColor=white&labelColor=6f42c1)](https://github.com/YousefElmenshawy/ADS_Postfix---Infix---Prefix-Conversions-.git)  
-Converts between Postfix, Infix, and Prefix using an Expression Tree with a Qt-based C++ GUI.
+[![Hospital Management](https://img.shields.io/badge/Hospital--Management--System-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moazelshafey/HMS_CSLab.git)  
+Full-featured HMS with multi-role support, built with Qt GUI.
 
-[![Chicken Invaders](https://img.shields.io/badge/Chicken--Invaders--Game-FB8C00?style=plastic&logo=godot-engine&logoColor=white&labelColor=FB8C00)](https://github.com/YousefElmenshawy/chicken-Invaders-Mini-Game.git)  
-🚀 2D Space Shooter – A mini arcade-style shooter inspired by Chicken Invaders, built in C++ with GUI and graphics powered by Qt.
+[![Expression Tool](https://img.shields.io/badge/Postfix--Infix--Prefix--Tool-6f42c1?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/YousefElmenshawy/ADS_Postfix---Infix---Prefix-Conversions-.git)  
+Qt-based expression converter using trees & traversal.
 
-[![Quine-McCluskey Algorithm](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=007ACC)](https://github.com/YousefElmenshawy/QuineMcCluskey_Simulator.git)  
-C++ implementation of the Quine-McCluskey logic minimization algorithm with prime implicant generation and Boolean function validation.
+[![Chicken Invaders](https://img.shields.io/badge/Chicken--Invaders--Game-FB8C00?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/YousefElmenshawy/chicken-Invaders-Mini-Game.git)  
+🚀 2D arcade shooter – C++ and Qt graphics.
 
-[![Signed SPM](https://img.shields.io/badge/Sequential--Multiplier--FPGA-800000?style=plastic&logo=xilinx&logoColor=white&labelColor=800000)](https://github.com/hassanashr/SignedSPM.git)  
-An 8x8 Signed Sequential-Parallel Multiplier (SPM) implemented in Verilog, simulated in Logisim, and deployed on a Basys 3 FPGA using Vivado.
+[![QMC Tool](https://img.shields.io/badge/Quine--McCluskey--Simulator-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/YousefElmenshawy/QuineMcCluskey_Simulator.git)  
+C++ minimizer with prime implicant extraction.
 
----
+[![Signed SPM](https://img.shields.io/badge/Sequential--Multiplier--FPGA-800000?style=for-the-badge&logo=xilinx&logoColor=white)](https://github.com/hassanashr/SignedSPM.git)  
+Signed 8x8 SPM in Verilog, simulated in Logisim and Vivado.
+
+</div>
+
 
 ## 📫 Connect with Me
 [![Email](https://img.icons8.com/color/50/000000/gmail-new.png)](mailto:yousefelmenshawi@aucegypt.edu)
