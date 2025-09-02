@@ -9,7 +9,7 @@
 
 # About Me !
 
-I am a hardworking and highly motivated student with a strong passion for **cybersecurity** and a commitment to protecting people's **data and privacy**. I have a keen interest in **mathematics** and **problem-solving**, which enables me to approach security challenges with analytical rigor and creative solutions. My goal is to contribute to organizations by helping build **safer, more resilient systems** through **ethical and effective security practices**.
+I am a hardworking and highly motivated **Computer Engineering** Student at the **American University** in Cairo with a strong passion for **cybersecurity** and a commitment to protecting people's **data and privacy**. I have a keen interest in **mathematics** and **problem-solving**, which enables me to approach security challenges with analytical rigor and creative solutions. My goal is to contribute to organizations by helping build **safer, more resilient systems** through **ethical and effective security practices**.
 
 ---
 
