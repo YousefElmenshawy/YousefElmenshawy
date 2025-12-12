@@ -2,14 +2,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YousefElmenshawy&color=blue&style=flat-square)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%7C+Cyber+Security+Enthusiast" alt="Static Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Junior+@+AUC" alt="Static Text" />
 </div>
 
 ---
 
 # About Me !
-
-I am a hardworking and highly motivated **Computer Engineering** Student at the **American University** in Cairo with a strong passion for **cybersecurity** and a commitment to protecting people's **data and privacy**. I have a keen interest in **mathematics** and **problem-solving**, which enables me to approach security challenges with analytical rigor and creative solutions. My goal is to contribute to organizations by helping build **safer, more resilient systems** through **ethical and effective security practices**.
+I am a motivated **Computer Engineering student** at the **American University in Cairo**, passionate about **Computer Architecture** and **full-stack web development**. I enjoy working at the hardware level designing digital systems with **Verilog**, exploring processor pipelines, instruction execution, and memory behavior. I also love building clean, efficient web applications using modern frontend and backend technologies like Next.js. With a strong foundation in **mathematics and problem-solving**, I approach engineering challenges with precision and creativity. My goal is to contribute to organizations by developing **innovative hardware systems** and **high-quality software solutions.**
 
 ---
 
@@ -22,12 +21,13 @@ I am a hardworking and highly motivated **Computer Engineering** Student at the 
 ---
 
 ### 🌐 Web Technologies & Frameworks  
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YousefElmenshawy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YousefElmenshawy) [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/YousefElmenshawy) [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YousefElmenshawy) [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/YousefElmenshawy) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/YousefElmenshawy)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YousefElmenshawy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YousefElmenshawy) [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/YousefElmenshawy) [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YousefElmenshawy) [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/YousefElmenshawy) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/YousefElmenshawy) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/YousefElmenshawy)
+
 
 ---
 
 ### ⚙️ Tools and Platforms  
-[![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/YousefElmenshawy) [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/YousefElmenshawy) [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/YousefElmenshawy) [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue)](https://github.com/YousefElmenshawy) [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=for-the-badge&logo=xilinx)](https://github.com/YousefElmenshawy)
+[![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/YousefElmenshawy) [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/YousefElmenshawy) [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/YousefElmenshawy) [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue)](https://github.com/YousefElmenshawy) [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=for-the-badge&logo=xilinx)](https://github.com/YousefElmenshawy) [![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)](https://github.com/YousefElmenshawy)
 
 ---
 ## Top Languages Used 
