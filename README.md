@@ -13,40 +13,29 @@ I am a hardworking and highly motivated **Computer Engineering** Student at the 
 
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
+## 🛠️ Skills
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Verilog](https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%23FF6600.svg?style=for-the-badge&logo=xilinx&logoColor=white)
-
-</div>
+### 🧠 Programming Languages  
+[![TypeScript](https://img.shields.io/badge/ts-black?style=for-the-badge&logo=typescript)](https://github.com/YousefElmenshawy) [![JavaScript](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://github.com/YousefElmenshawy) [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/YousefElmenshawy) [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/YousefElmenshawy) [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge)](https://github.com/YousefElmenshawy) [![Verilog](https://img.shields.io/badge/verilog-black?style=for-the-badge)](https://github.com/YousefElmenshawy)
 
 ---
 
+### 🌐 Web Technologies & Frameworks  
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YousefElmenshawy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YousefElmenshawy) [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/YousefElmenshawy) [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YousefElmenshawy) [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/YousefElmenshawy) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/YousefElmenshawy)
 
+---
 
-## 🚀 GitHub Analytics
+### ⚙️ Tools and Platforms  
+[![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/YousefElmenshawy) [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/YousefElmenshawy) [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/YousefElmenshawy) [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue)](https://github.com/YousefElmenshawy) [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=for-the-badge&logo=xilinx)](https://github.com/YousefElmenshawy)
 
-<div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefElmenshawy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+---
+## Top Languages Used 
+
+<div align ="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YousefElmenshawy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Yousef ELmenshawy's Top Languages" />
 </div>
+
 
 ---
 
