@@ -21,7 +21,7 @@ I am a motivated **Computer Engineering student** at the **American University i
 ---
 
 ### 🌐 Web Technologies & Frameworks  
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YousefElmenshawy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YousefElmenshawy) [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/YousefElmenshawy) [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YousefElmenshawy) [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/YousefElmenshawy) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/YousefElmenshawy) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/YousefElmenshawy)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YousefElmenshawy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YousefElmenshawy)  [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YousefElmenshawy) [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/YousefElmenshawy) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/YousefElmenshawy) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/YousefElmenshawy)
 
 
 ---
@@ -43,13 +43,13 @@ I am a motivated **Computer Engineering student** at the **American University i
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefelmenshawi@aucegypt.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/yousef-ibrahim-elmenshawy-18ab22336)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousefElmenshawy)
-
+ <a href="http://linkedin.com/in/yousef-ibrahim-elmenshawy-18ab22336">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />
+  </a>
+  <a href="mailto:yousefelmenshawi@aucegypt.edu">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="Gmail"/>
+  </a>
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=center"/>
