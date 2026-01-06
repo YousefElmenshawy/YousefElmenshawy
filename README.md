@@ -30,7 +30,7 @@ I am a motivated **Computer Engineering student** at the **American University i
 [![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/YousefElmenshawy) [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/YousefElmenshawy) [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/YousefElmenshawy) [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue)](https://github.com/YousefElmenshawy) [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-black?style=for-the-badge&logo=xilinx)](https://github.com/YousefElmenshawy) [![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)](https://github.com/YousefElmenshawy)
 
 ---
-## Top Languages Used 
+## Top Languages Used  
 
 <div align ="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YousefElmenshawy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Yousef ELmenshawy's Top Languages" />
