@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YousefElmenshawy&color=blue&style=flat-square)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Junior+@+AUC" alt="Static Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Senior+@+AUC" alt="Static Text" />
 </div>
 
 ---
